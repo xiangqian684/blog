@@ -1,3 +1,2 @@
-# pianfan.github.io
+# xiangqian684.github.io/blog
 
-My Personal Blog via GitHub
